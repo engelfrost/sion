@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://engelfrost.github.io/sion/sitemap.xml
