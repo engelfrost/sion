@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Sionförsamlingen Åmål</title>
+    <link href="https://engelfrost.github.io/sion/feed.xml" rel="self" />
+    <link href="https://engelfrost.github.io/sion" />
+    <updated>2025-01-27T17:38:49+01:00</updated>
+    <author>
+        <name>Josef Engelfrost</name>
+    </author>
+    <id>https://engelfrost.github.io/sion</id>
+
+    <entry>
+        <title>Hello</title>
+        <author>
+            <name>Josef Engelfrost</name>
+        </author>
+        <link href="https://engelfrost.github.io/sion/hello/"/>
+        <id>https://engelfrost.github.io/sion/hello/</id>
+
+        <updated>2025-01-27T17:38:49+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
