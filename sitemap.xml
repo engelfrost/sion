@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://engelfrost.github.io/sion/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://pingstamal.se/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://engelfrost.github.io/sion/</loc>
+<loc>https://pingstamal.se/</loc>
 </url>
 <url>
-<loc>https://engelfrost.github.io/sion/hello/</loc>
-<lastmod>2025-01-27T17:38:49+01:00</lastmod>
+<loc>https://pingstamal.se/hello/</loc>
+<lastmod>2025-07-04T20:56:01+02:00</lastmod>
 </url>
 <url>
-<loc>https://engelfrost.github.io/sion/sionfoersamlingen-amal/</loc>
-<lastmod>2025-01-29T21:53:40+01:00</lastmod>
+<loc>https://pingstamal.se/sionfoersamlingen-amal/</loc>
+<lastmod>2025-07-04T20:44:07+02:00</lastmod>
 </url>
 </urlset>

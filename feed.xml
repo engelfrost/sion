@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Sionförsamlingen Åmål</title>
-    <link href="https://engelfrost.github.io/sion/feed.xml" rel="self" />
-    <link href="https://engelfrost.github.io/sion" />
-    <updated>2025-01-27T17:38:49+01:00</updated>
+    <title>Pingstkyrkan i Åmål</title>
+    <link href="https://pingstamal.se/feed.xml" rel="self" />
+    <link href="https://pingstamal.se" />
+    <updated>2025-07-04T20:56:01+02:00</updated>
     <author>
         <name>Josef Engelfrost</name>
     </author>
-    <id>https://engelfrost.github.io/sion</id>
+    <id>https://pingstamal.se</id>
 
     <entry>
-        <title>Hello</title>
+        <title>Söndagsskola</title>
         <author>
             <name>Josef Engelfrost</name>
         </author>
-        <link href="https://engelfrost.github.io/sion/hello/"/>
-        <id>https://engelfrost.github.io/sion/hello/</id>
+        <link href="https://pingstamal.se/hello/"/>
+        <id>https://pingstamal.se/hello/</id>
 
         <updated>2025-01-27T17:38:49+01:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    På skolterminerna har vi söndagsskola för barn, samtidigt som söndagsgudstjänsten. Vi lär oss om olika berättelser från Bibeln i genom sång, berättande, pyssel&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>På skolterminerna har vi söndagsskola för barn, samtidigt som söndagsgudstjänsten. Vi lär oss om olika berättelser från Bibeln i genom sång, berättande, pyssel och lek. </p>
+            ]]>
+        </content>
     </entry>
 </feed>
