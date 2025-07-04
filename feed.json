@@ -1,25 +1,27 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Sionförsamlingen Åmål",
+    "title": "Pingstkyrkan i Åmål",
     "description": "",
-    "home_page_url": "https://engelfrost.github.io/sion",
-    "feed_url": "https://engelfrost.github.io/sion/feed.json",
+    "home_page_url": "https://pingstamal.se",
+    "feed_url": "https://pingstamal.se/feed.json",
     "user_comment": "",
     "author": {
         "name": "Josef Engelfrost"
     },
     "items": [
         {
-            "id": "https://engelfrost.github.io/sion/hello/",
-            "url": "https://engelfrost.github.io/sion/hello/",
-            "title": "Hello",
+            "id": "https://pingstamal.se/hello/",
+            "url": "https://pingstamal.se/hello/",
+            "title": "Söndagsskola",
+            "summary": "På skolterminerna har vi söndagsskola för barn, samtidigt som söndagsgudstjänsten. Vi lär oss om olika berättelser från Bibeln i genom sång, berättande, pyssel&hellip;",
+            "content_html": "<p>På skolterminerna har vi söndagsskola för barn, samtidigt som söndagsgudstjänsten. Vi lär oss om olika berättelser från Bibeln i genom sång, berättande, pyssel och lek. </p>",
             "author": {
                 "name": "Josef Engelfrost"
             },
             "tags": [
             ],
             "date_published": "2025-01-27T17:38:49+01:00",
-            "date_modified": "2025-01-27T17:38:49+01:00"
+            "date_modified": "2025-07-04T20:56:01+02:00"
         }
     ]
 }
