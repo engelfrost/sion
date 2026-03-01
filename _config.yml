@@ -1,0 +1,4 @@
+title: "My Static Site"
+description: "A simple Jekyll site hosted on GitHub Pages."
+theme: minima
+markdown: kramdown
