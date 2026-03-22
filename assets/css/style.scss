@@ -1,0 +1,125 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+// ── Typography ──────────────────────────────────────────
+// Use a warmer serif for headings, clean sans-serif for body
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Source+Sans+3:wght@400;600&display=swap');
+
+body {
+  font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 17px;
+  line-height: 1.75;
+  color: #333;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Merriweather', Georgia, serif;
+  color: #2c3e50;
+}
+
+// ── Accent color ────────────────────────────────────────
+// A warm, welcoming blue
+
+$accent: #2a7ae2;
+
+a {
+  color: $accent;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+
+  &:hover {
+    border-bottom-color: $accent;
+  }
+}
+
+// ── Site header ─────────────────────────────────────────
+
+.site-header {
+  border-top: 4px solid $accent;
+  border-bottom: 1px solid #e8e8e8;
+  background: #fff;
+}
+
+.site-title {
+  font-family: 'Merriweather', Georgia, serif;
+  font-size: 22px !important;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+
+  &, &:visited {
+    color: #2c3e50;
+  }
+}
+
+// ── Content area ────────────────────────────────────────
+
+.page-content {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.post-title,
+.page-heading {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+// ── Blockquotes (for the Bible verse) ───────────────────
+
+blockquote {
+  border-left: 4px solid $accent;
+  background: #f8f9fa;
+  padding: 1em 1.5em;
+  margin: 2em 0;
+  border-radius: 0 4px 4px 0;
+  font-style: italic;
+  color: #555;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// ── Footer ──────────────────────────────────────────────
+
+.site-footer {
+  border-top: 1px solid #e8e8e8;
+  background: #fafafa;
+  padding: 20px 0;
+}
+
+// ── Subtle refinements ──────────────────────────────────
+
+// Slightly narrower measure for readability
+.wrapper {
+  max-width: 740px;
+}
+
+// Smooth transitions on nav links
+.site-nav .page-link {
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: $accent;
+  }
+}
+
+// Add spacing between content sections
+.post-content h2 {
+  margin-top: 2em;
+  padding-top: 0.5em;
+  border-top: 1px solid #eee;
+}
+
+// First h2 shouldn't have top border
+.post-content h2:first-child {
+  border-top: none;
+  margin-top: 0;
+  padding-top: 0;
+}
