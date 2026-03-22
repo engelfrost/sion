@@ -1,11 +1,10 @@
 ---
 layout: home
-title: Home
+title: Pingstkyrkan i Åmål
 ---
 
-Welcome to my site 👋
+Välkommen till Pingstkyrkan i Åmål – en kristen gemenskap med ett stort hjärta.
 
-This site is powered by **Jekyll** and hosted on **GitHub Pages**.
-
-- [About](/about/)
-- [Notes](/notes/)
+- [Hem – Välkommen hit, välkommen hem](/vaelkommen-hit-vaelkommen-hem/)
+- [Vad vi gör](/vad-vi-goer/)
+- [Vad vi tror på](/vad-vi-tror-pa/)
