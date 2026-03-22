@@ -5,6 +5,8 @@ lang: sv
 author: ""
 theme: minima
 markdown: kramdown
+minima:
+  skin: classic
 
 header_pages:
   - vad-vi-goer.md
