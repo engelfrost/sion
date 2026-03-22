@@ -1,4 +1,13 @@
-title: "My Static Site"
-description: "A simple Jekyll site hosted on GitHub Pages."
+title: "Pingstkyrkan i Åmål"
+description: "Pingstkyrkan i Åmål är en kristen gemenskap. Hit är du välkommen just som du är."
+url: "https://pingstamal.se"
+lang: sv
+author:
+  name: Josef Engelfrost
 theme: minima
 markdown: kramdown
+
+header_pages:
+  - vaelkommen.md
+  - vad-vi-goer.md
+  - vad-vi-tror-pa.md
