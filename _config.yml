@@ -1,13 +1,11 @@
 title: "Pingstkyrkan i Åmål"
-description: "Pingstkyrkan i Åmål är en kristen gemenskap. Hit är du välkommen just som du är."
+description: ""
 url: "https://pingstamal.se"
 lang: sv
-author:
-  name: Josef Engelfrost
+author: ""
 theme: minima
 markdown: kramdown
 
 header_pages:
-  - vaelkommen.md
   - vad-vi-goer.md
   - vad-vi-tror-pa.md
