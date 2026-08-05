@@ -3,25 +3,39 @@ layout: home
 title: Pingstkyrkan i Åmål
 ---
 
-Välkommen till Pingstkyrkan i Åmål – en kristen gemenskap med ett stort hjärta.
+## Program
 
-Hit är du välkommen just som du är, oavsett var du befinner dig i livet eller i tron.
+<div class="programme">
+  <section class="programme-month">
+    <h3>Augusti</h3>
+    <ul>
+      <li><time datetime="2026-08-21T17:00">21 · 17.00</time><span>Fredag 8–12 år</span></li>
+      <li><time datetime="2026-08-23T16:00">23 · 16.00</time><span>Familjegudstjänst</span></li>
+      <li><time datetime="2026-08-24T18:00">24 · 18.00</time><span>Kraftkväll</span></li>
+      <li><time datetime="2026-08-30T11:00">30 · 11.00</time><span>Gudstjänst och söndagsskola</span></li>
+      <li><time datetime="2026-08-31T18:00">31 · 18.00</time><span>Kraftkväll</span></li>
+    </ul>
+  </section>
 
-Vi vill vara en öppen och varm plats där människor får mötas, dela livet, hämta kraft och växa i tro och gemenskap.
+  <section class="programme-month">
+    <h3>September</h3>
+    <ul>
+      <li><time datetime="2026-09-04T17:00">4 · 17.00</time><span>Fredag 8–12 år</span></li>
+      <li><time datetime="2026-09-06T11:00">6 · 11.00</time><span>Gudstjänst och söndagsskola</span></li>
+      <li><time datetime="2026-09-06T13:00">6 · 13.00</time><span>Församlingsmöte</span></li>
+      <li><time datetime="2026-09-07T18:00">7 · 18.00</time><span>Kraftkväll</span></li>
+      <li><time datetime="2026-09-13T11:00">13 · 11.00</time><span>Gudstjänst och söndagsskola</span></li>
+      <li><time datetime="2026-09-14T18:00">14 · 18.00</time><span>Kraftkväll</span></li>
+      <li><time datetime="2026-09-18T17:00">18 · 17.00</time><span>Fredag 8–12 år</span></li>
+    </ul>
+  </section>
+</div>
 
-Vi tror att Bibelns budskap är levande ord som ger hopp, riktning och kraft genom livet.
+## Kommande konferenser
 
-Vi är en liten församling med ett stort hjärta. Här blir du sedd, hörd och älskad – inte för vad du gör, utan för den du är.
+<div class="conference"><strong>26–27 september</strong>Gemensam konferens med Rickard Lundgren</div>
 
-Vi vill leva nära Jesus och nära varandra.
-Tillsammans får vi växa i tro, dela livet och bära varandra genom allt.
-
-Hos oss finns människor som vill stå med dig i bön, i vardagen, i glädje och i svårare tider.
-
-Vi tror att Gud har en god plan med just ditt liv, och vi vill gärna vara en del av den resan.
-
-Här möter du mer än en byggnad – du möter en plats att kalla hem.
-Vi tror att det är Gud själv som säger: Välkommen hem!
+<div class="conference"><strong>21–22 november</strong>Gemensam Israelkonferens med Thomas och Hertie Dixon</div>
 
 > På samma sätt som en kropp är beroende av att alla dess delar fungerar, så är också vår gemenskap i Kristus beroende av att var och en av oss fungerar. Vi är alla delar i Kristi kropp, var och en av oss med olika uppgifter att sköta, och alla behövs för att göra den fullständig. Vi tillhör därför varandra, och var och en behöver de andra.
 >
