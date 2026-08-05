@@ -10,24 +10,24 @@ period: Augusti–september 2026
   <section class="programme-month">
     <div class="programme-month-heading"><h3>Augusti</h3><span>2026</span></div>
     <ul>
-      <li><time datetime="2026-08-21T17:00"><b>21</b><small>aug</small></time><span><strong>Fredag 8–12 år</strong><em>17.00</em></span></li>
+      <li><time datetime="2026-08-21T17:00"><b>21</b><small>aug</small></time><span><strong>Fredax 8–12 år</strong><em>17.00</em></span></li>
       <li><time datetime="2026-08-23T16:00"><b>23</b><small>aug</small></time><span><strong>Familjegudstjänst</strong><em>16.00</em></span></li>
-      <li><time datetime="2026-08-24T18:00"><b>24</b><small>aug</small></time><span><strong>Kraftkväll</strong><em>18.00</em></span></li>
+      <li><time datetime="2026-08-24T18:00"><b>24</b><small>aug</small></time><span><strong>Kraftkällan</strong><em>18.00</em></span></li>
       <li><time datetime="2026-08-30T11:00"><b>30</b><small>aug</small></time><span><strong>Gudstjänst och söndagsskola</strong><em>11.00</em></span></li>
-      <li><time datetime="2026-08-31T18:00"><b>31</b><small>aug</small></time><span><strong>Kraftkväll</strong><em>18.00</em></span></li>
+      <li><time datetime="2026-08-31T18:00"><b>31</b><small>aug</small></time><span><strong>Kraftkällan</strong><em>18.00</em></span></li>
     </ul>
   </section>
 
   <section class="programme-month">
     <div class="programme-month-heading"><h3>September</h3><span>2026</span></div>
     <ul>
-      <li><time datetime="2026-09-04T17:00"><b>4</b><small>sep</small></time><span><strong>Fredag 8–12 år</strong><em>17.00</em></span></li>
+      <li><time datetime="2026-09-04T17:00"><b>4</b><small>sep</small></time><span><strong>Fredax 8–12 år</strong><em>17.00</em></span></li>
       <li><time datetime="2026-09-06T11:00"><b>6</b><small>sep</small></time><span><strong>Gudstjänst och söndagsskola</strong><em>11.00</em></span></li>
       <li><time datetime="2026-09-06T13:00"><b>6</b><small>sep</small></time><span><strong>Församlingsmöte</strong><em>13.00</em></span></li>
-      <li><time datetime="2026-09-07T18:00"><b>7</b><small>sep</small></time><span><strong>Kraftkväll</strong><em>18.00</em></span></li>
+      <li><time datetime="2026-09-07T18:00"><b>7</b><small>sep</small></time><span><strong>Kraftkällan</strong><em>18.00</em></span></li>
       <li><time datetime="2026-09-13T11:00"><b>13</b><small>sep</small></time><span><strong>Gudstjänst och söndagsskola</strong><em>11.00</em></span></li>
-      <li><time datetime="2026-09-14T18:00"><b>14</b><small>sep</small></time><span><strong>Kraftkväll</strong><em>18.00</em></span></li>
-      <li><time datetime="2026-09-18T17:00"><b>18</b><small>sep</small></time><span><strong>Fredag 8–12 år</strong><em>17.00</em></span></li>
+      <li><time datetime="2026-09-14T18:00"><b>14</b><small>sep</small></time><span><strong>Kraftkällan</strong><em>18.00</em></span></li>
+      <li><time datetime="2026-09-18T17:00"><b>18</b><small>sep</small></time><span><strong>Fredax 8–12 år</strong><em>17.00</em></span></li>
     </ul>
   </section>
 </div>
