@@ -1,0 +1,188 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap');
+@import "minima";
+
+$pine: #173f3a;
+$pine-dark: #0f302c;
+$gold: #d8aa5c;
+$cream: #f7f4ed;
+$paper: #fffdf8;
+$ink: #22302d;
+$muted: #63706b;
+$line: #dfe3da;
+
+body {
+  background: $cream;
+  color: $ink;
+  font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 16px;
+  line-height: 1.55;
+}
+
+.wrapper { max-width: 1080px; }
+
+h1, h2, h3, h4 {
+  color: $pine;
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+a { color: $pine; }
+
+.site-header {
+  border-top: 5px solid $gold;
+  border-bottom: 1px solid $line;
+  background: $paper;
+}
+
+.site-title {
+  color: $pine !important;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.site-nav .page-link {
+  color: $pine;
+  font-weight: 600;
+}
+
+.page-content { padding: 42px 0 76px; }
+
+.home .page-heading {
+  position: relative;
+  overflow: hidden;
+  margin: 0 0 0;
+  padding: 54px 58px;
+  border-radius: 3px 3px 0 0;
+  background: $pine;
+  color: white;
+  font-size: clamp(2.7rem, 7vw, 4.5rem);
+  line-height: 1.03;
+  letter-spacing: -0.035em;
+
+  &::after {
+    position: absolute;
+    top: -260px;
+    right: -105px;
+    width: 590px;
+    height: 590px;
+    border: 1px solid rgba(255, 255, 255, 0.13);
+    border-radius: 50%;
+    box-shadow: 0 0 0 55px rgba(255,255,255,0.04), 0 0 0 110px rgba(255,255,255,0.03);
+    content: '';
+  }
+}
+
+.program-period {
+  margin: 0 0 38px;
+  padding: 13px 58px;
+  background: $pine-dark;
+  color: #e5eee8;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.home h2 {
+  margin: 46px 0 20px;
+  color: $pine;
+  font-size: 2rem;
+  letter-spacing: -0.02em;
+}
+
+.home h2:first-of-type { margin-top: 0; }
+
+.programme,
+.conferences {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+}
+
+.programme-month {
+  overflow: hidden;
+  border: 1px solid $line;
+  background: $paper;
+  box-shadow: 0 8px 24px rgba(23, 63, 58, 0.05);
+}
+
+.programme-month-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 19px 22px 16px;
+  border-bottom: 3px solid $gold;
+
+  h3 { margin: 0; font-size: 1.55rem; }
+  span { color: $muted; font-size: 0.82rem; font-weight: 700; }
+}
+
+.programme-month ul { margin: 0; padding: 4px 22px 12px; list-style: none; }
+
+.programme-month li {
+  display: grid;
+  grid-template-columns: 48px 1fr;
+  gap: 15px;
+  align-items: center;
+  padding: 13px 0;
+  border-bottom: 1px solid #e8ebe4;
+
+  &:last-child { border-bottom: 0; }
+}
+
+.programme-month time {
+  display: flex;
+  height: 47px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  background: #edf1eb;
+  color: $pine;
+  line-height: 1;
+
+  b { font-size: 1.2rem; }
+  small { margin-top: 4px; font-size: 0.62rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; }
+}
+
+.programme-month strong { display: block; color: $ink; font-size: 0.98rem; }
+.programme-month em { display: block; margin-top: 2px; color: $muted; font-size: 0.88rem; font-style: normal; }
+
+.conference {
+  min-height: 148px;
+  padding: 25px;
+  background: $pine;
+  color: white;
+
+  &:nth-child(2) { background: #3d5c53; }
+  > span { color: $gold; font-size: 0.77rem; font-weight: 700; letter-spacing: 0.11em; text-transform: uppercase; }
+  h3 { margin: 8px 0 0; color: white; font-size: 1.35rem; line-height: 1.2; }
+  p { margin: 9px 0 0; color: #e3ece6; }
+}
+
+blockquote {
+  max-width: 780px;
+  margin: 62px auto 0;
+  padding: 4px 0 4px 26px;
+  border-left: 3px solid $gold;
+  background: transparent;
+  color: #52615b;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.12rem;
+  line-height: 1.65;
+}
+
+.site-footer { padding: 28px 0; border: 0; background: $pine-dark; color: #d3ddd6; }
+.footer-col-wrapper, .social-media-list { color: #d3ddd6; }
+
+@media screen and (max-width: 700px) {
+  .page-content { padding: 25px 0 50px; }
+  .home .page-heading { padding: 45px 28px; }
+  .program-period { margin-bottom: 30px; padding: 12px 28px; }
+  .programme, .conferences { grid-template-columns: 1fr; gap: 18px; }
+  .home h2 { margin-top: 38px; font-size: 1.7rem; }
+}

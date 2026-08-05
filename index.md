@@ -1,41 +1,44 @@
 ---
 layout: home
-title: Pingstkyrkan i Åmål
+title: Program
 ---
 
-## Program
+<p class="program-period">Augusti–september 2026</p>
+
+## Det här händer
 
 <div class="programme">
   <section class="programme-month">
-    <h3>Augusti</h3>
+    <div class="programme-month-heading"><h3>Augusti</h3><span>2026</span></div>
     <ul>
-      <li><time datetime="2026-08-21T17:00">21 · 17.00</time><span>Fredag 8–12 år</span></li>
-      <li><time datetime="2026-08-23T16:00">23 · 16.00</time><span>Familjegudstjänst</span></li>
-      <li><time datetime="2026-08-24T18:00">24 · 18.00</time><span>Kraftkväll</span></li>
-      <li><time datetime="2026-08-30T11:00">30 · 11.00</time><span>Gudstjänst och söndagsskola</span></li>
-      <li><time datetime="2026-08-31T18:00">31 · 18.00</time><span>Kraftkväll</span></li>
+      <li><time datetime="2026-08-21T17:00"><b>21</b><small>aug</small></time><span><strong>Fredag 8–12 år</strong><em>17.00</em></span></li>
+      <li><time datetime="2026-08-23T16:00"><b>23</b><small>aug</small></time><span><strong>Familjegudstjänst</strong><em>16.00</em></span></li>
+      <li><time datetime="2026-08-24T18:00"><b>24</b><small>aug</small></time><span><strong>Kraftkväll</strong><em>18.00</em></span></li>
+      <li><time datetime="2026-08-30T11:00"><b>30</b><small>aug</small></time><span><strong>Gudstjänst och söndagsskola</strong><em>11.00</em></span></li>
+      <li><time datetime="2026-08-31T18:00"><b>31</b><small>aug</small></time><span><strong>Kraftkväll</strong><em>18.00</em></span></li>
     </ul>
   </section>
 
   <section class="programme-month">
-    <h3>September</h3>
+    <div class="programme-month-heading"><h3>September</h3><span>2026</span></div>
     <ul>
-      <li><time datetime="2026-09-04T17:00">4 · 17.00</time><span>Fredag 8–12 år</span></li>
-      <li><time datetime="2026-09-06T11:00">6 · 11.00</time><span>Gudstjänst och söndagsskola</span></li>
-      <li><time datetime="2026-09-06T13:00">6 · 13.00</time><span>Församlingsmöte</span></li>
-      <li><time datetime="2026-09-07T18:00">7 · 18.00</time><span>Kraftkväll</span></li>
-      <li><time datetime="2026-09-13T11:00">13 · 11.00</time><span>Gudstjänst och söndagsskola</span></li>
-      <li><time datetime="2026-09-14T18:00">14 · 18.00</time><span>Kraftkväll</span></li>
-      <li><time datetime="2026-09-18T17:00">18 · 17.00</time><span>Fredag 8–12 år</span></li>
+      <li><time datetime="2026-09-04T17:00"><b>4</b><small>sep</small></time><span><strong>Fredag 8–12 år</strong><em>17.00</em></span></li>
+      <li><time datetime="2026-09-06T11:00"><b>6</b><small>sep</small></time><span><strong>Gudstjänst och söndagsskola</strong><em>11.00</em></span></li>
+      <li><time datetime="2026-09-06T13:00"><b>6</b><small>sep</small></time><span><strong>Församlingsmöte</strong><em>13.00</em></span></li>
+      <li><time datetime="2026-09-07T18:00"><b>7</b><small>sep</small></time><span><strong>Kraftkväll</strong><em>18.00</em></span></li>
+      <li><time datetime="2026-09-13T11:00"><b>13</b><small>sep</small></time><span><strong>Gudstjänst och söndagsskola</strong><em>11.00</em></span></li>
+      <li><time datetime="2026-09-14T18:00"><b>14</b><small>sep</small></time><span><strong>Kraftkväll</strong><em>18.00</em></span></li>
+      <li><time datetime="2026-09-18T17:00"><b>18</b><small>sep</small></time><span><strong>Fredag 8–12 år</strong><em>17.00</em></span></li>
     </ul>
   </section>
 </div>
 
 ## Kommande konferenser
 
-<div class="conference"><strong>26–27 september</strong>Gemensam konferens med Rickard Lundgren</div>
-
-<div class="conference"><strong>21–22 november</strong>Gemensam Israelkonferens med Thomas och Hertie Dixon</div>
+<div class="conferences">
+  <section class="conference"><span>26–27 september</span><h3>Gemensam konferens</h3><p>Med Rickard Lundgren</p></section>
+  <section class="conference"><span>21–22 november</span><h3>Gemensam Israelkonferens</h3><p>Med Thomas och Hertie Dixon</p></section>
+</div>
 
 > På samma sätt som en kropp är beroende av att alla dess delar fungerar, så är också vår gemenskap i Kristus beroende av att var och en av oss fungerar. Vi är alla delar i Kristi kropp, var och en av oss med olika uppgifter att sköta, och alla behövs för att göra den fullständig. Vi tillhör därför varandra, och var och en behöver de andra.
 >
