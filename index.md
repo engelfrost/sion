@@ -1,9 +1,8 @@
 ---
 layout: home
 title: Program
+period: Augusti–september 2026
 ---
-
-<p class="program-period">Augusti–september 2026</p>
 
 ## Det här händer
 
