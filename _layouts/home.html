@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+  <section class="program-hero">
+    <h1>{{ page.title | escape }}</h1>
+    {%- if page.period -%}
+    <p class="program-period">{{ page.period | escape }}</p>
+    {%- endif -%}
+  </section>
+  {%- endif -%}
+
+  {{ content }}
+</div>
