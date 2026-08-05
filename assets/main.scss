@@ -59,7 +59,7 @@ a { color: $pine; }
   display: flex;
   align-items: end;
   overflow: hidden;
-  margin: 0;
+  margin: 0 0 52px;
   padding: 54px 58px 140px;
   border-radius: 3px 3px 0 0;
   background-image:
@@ -71,7 +71,7 @@ a { color: $pine; }
   background-size: cover;
   color: white;
   // Deliberately large: it must remain a clear hero title on wide desktop displays.
-  font-size: clamp(4rem, 8vw, 6.4rem);
+  font-size: clamp(3.5rem, 6.8vw, 5.5rem);
   line-height: 1.03;
   letter-spacing: -0.035em;
   text-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
@@ -194,7 +194,7 @@ blockquote {
     min-height: 490px;
     align-items: end;
     padding: 42px 28px 120px;
-    font-size: clamp(3.5rem, 16vw, 5rem);
+    font-size: clamp(3rem, 13vw, 4rem);
     // On phones the source image is cropped from the sides, keeping the church
     // facade and tower in frame while reserving the lower left for the title.
     background-image:
