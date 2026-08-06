@@ -195,8 +195,55 @@ blockquote {
     z-index: 20;
   }
 
+  // Minima changes to its hamburger menu at 600px. Keep that interaction up
+  // to 700px so a phone in landscape does not get the clipped desktop links.
   .site-nav {
+    position: absolute;
+    top: 9px;
+    right: 15px;
     z-index: 21;
+    background-color: #fdfdfd;
+    border: 1px solid #e8e8e8;
+    border-radius: 5px;
+    text-align: right;
+  }
+
+  .site-nav label[for="nav-trigger"] {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+  }
+
+  .site-nav .menu-icon {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 26px;
+    padding-top: 10px;
+    line-height: 0;
+    text-align: center;
+
+    > svg { fill: #424242; }
+  }
+
+  .site-nav input ~ .trigger {
+    display: none;
+    clear: both;
+  }
+
+  .site-nav input:checked ~ .trigger {
+    display: block;
+    padding-bottom: 5px;
+  }
+
+  .site-nav .page-link {
+    display: block;
+    padding: 5px 10px;
+    margin-left: 20px;
+
+    &:not(:last-child) { margin-right: 0; }
   }
 
   // Keep the expanded mobile navigation above the hero rather than in normal flow.
