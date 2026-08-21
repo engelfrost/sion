@@ -96,6 +96,23 @@ a { color: $pine; }
   text-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
 }
 
+// Make a section clear when reached through an in-page programme link
+.page-content h2:target {
+  scroll-margin-top: 1rem;
+  margin-left: -0.75em;
+  padding: 0.5em 0.75em;
+  border-left: 4px solid $gold;
+  border-radius: 4px;
+  background: #fff8ed;
+  box-shadow: 0 0 0 1px rgba($gold, 0.24);
+  animation: target-highlight 1.8s ease-out;
+}
+
+@keyframes target-highlight {
+  from { background: #ffedcc; }
+  to { background: #fff8ed; }
+}
+
 .home h2 {
   margin: 46px 0 20px;
   color: $pine;
