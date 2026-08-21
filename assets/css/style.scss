@@ -122,6 +122,24 @@ blockquote {
   padding-top: 0;
 }
 
+// Make a section clear when reached through an in-page programme link
+.post-content h2:target {
+  scroll-margin-top: 1rem;
+  margin-left: -0.75em;
+  padding: 0.5em 0.75em;
+  border-top: none;
+  border-left: 4px solid $accent;
+  border-radius: 4px;
+  background: #eaf3ff;
+  box-shadow: 0 0 0 1px rgba($accent, 0.18);
+  animation: target-highlight 1.8s ease-out;
+}
+
+@keyframes target-highlight {
+  from { background: #d5e9ff; }
+  to { background: #eaf3ff; }
+}
+
 // ── Programme ────────────────────────────────────────────
 
 .programme {
