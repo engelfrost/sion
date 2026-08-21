@@ -17,9 +17,9 @@ En gång i månaden firar vi nattvard tillsammans. Då påminner vi oss om vad J
 
 En gudstjänst där alla åldrar deltar tillsammans från början till slut. Det blir ofta mer sång, enklare undervisning, drama eller inslag där barnen är med. En levande och glädjefylld stund där hela församlingen möts – från liten till stor. Familjegudstjänsterna hålls oftast klockan 15:00 på eftermiddagen.
 
-## Kraftkällan – måndagar kl. 18:00
+## Kraftkällan – måndagar kl. 18:00 {#kraftkallan}
 
-Kraftkällan är en stund av stillhet, bön och gemenskap. Vi fikar tillsammans, ber och delar livet. Ibland lyssnar vi på något som hjälper oss att växa i tro och förståelse. Vi samtalar, uppmuntrar varandra och söker Guds vägledning i vardagen.
+Kraftkällan är en samling där vi lyssnar till undervisning, samtalar och ber tillsammans. Det finns också tid för fika och gemenskap.
 
 ## Söndagsskola
 
