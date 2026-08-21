@@ -96,21 +96,22 @@ a { color: $pine; }
   text-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
 }
 
-// Make a section clear when reached through an in-page programme link
+// Make a linked section look like it has been marked with a highlighter pen.
 .page-content h2:target {
   scroll-margin-top: 1rem;
-  margin-left: -0.75em;
-  padding: 0.5em 0.75em;
-  border-left: 4px solid $gold;
-  border-radius: 4px;
-  background: #fff8ed;
-  box-shadow: 0 0 0 1px rgba($gold, 0.24);
-  animation: target-highlight 1.8s ease-out;
+  display: table;
+  max-width: 100%;
+  margin-left: -0.2em;
+  padding: 0 0.2em;
+  background-image: linear-gradient(176deg, transparent 0%, transparent 34%, rgba($gold, 0.48) 36%, rgba($gold, 0.48) 84%, transparent 86%, transparent 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  animation: marker-stroke 700ms ease-out;
 }
 
-@keyframes target-highlight {
-  from { background: #ffedcc; }
-  to { background: #fff8ed; }
+@keyframes marker-stroke {
+  from { background-size: 0 100%; }
+  to { background-size: 100% 100%; }
 }
 
 .home h2 {
