@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Program
-period: Augusti–september 2026
+period: Augusti–oktober 2026
 ---
 
 ## Det här händer
@@ -25,9 +25,22 @@ period: Augusti–september 2026
       <li><time datetime="2026-09-06T11:00"><b>6</b><small>sep</small></time><span><strong><a href="{{ '/vad-vi-goer/#sondagsgudstjanst' | relative_url }}">Gudstjänst och söndagsskola</a></strong><em>11.00</em></span></li>
       <li><time datetime="2026-09-06T13:00"><b>6</b><small>sep</small></time><span><strong>Församlingsmöte</strong><em>13.00</em></span></li>
       <li><time datetime="2026-09-07T18:00"><b>7</b><small>sep</small></time><span><strong><a href="{{ '/vad-vi-goer/#kraftkallan' | relative_url }}">Kraftkällan</a></strong><em>18.00</em></span></li>
-      <li><time datetime="2026-09-13T11:00"><b>13</b><small>sep</small></time><span><strong><a href="{{ '/vad-vi-goer/#sondagsgudstjanst' | relative_url }}">Gudstjänst och söndagsskola</a></strong><em>11.00</em></span></li>
+      <li><time datetime="2026-09-13T11:00"><b>13</b><small>sep</small></time><span><strong><a href="{{ '/vad-vi-goer/#sondagsgudstjanst' | relative_url }}">Gudstjänst och söndagsskola</a> — predikan Tommy Dahlman</strong><em>11.00</em></span></li>
       <li><time datetime="2026-09-14T18:00"><b>14</b><small>sep</small></time><span><strong><a href="{{ '/vad-vi-goer/#kraftkallan' | relative_url }}">Kraftkällan</a></strong><em>18.00</em></span></li>
       <li><time datetime="2026-09-18T17:00"><b>18</b><small>sep</small></time><span><strong>Fredax 8–12 år</strong><em>17.00</em></span></li>
+      <li><time datetime="2026-09-20T16:00"><b>20</b><small>sep</small></time><span><strong><a href="{{ '/vad-vi-goer/#familjegudstjanst' | relative_url }}">Familjegudstjänst</a></strong><em>16.00</em></span></li>
+      <li><time datetime="2026-09-26T17:00"><b>26</b><small>sep</small></time><span><strong>Gemensam kampanj — möte i Elimkyrkan</strong><em>17.00</em></span></li>
+      <li><time datetime="2026-09-26T19:00"><b>26</b><small>sep</small></time><span><strong>Gemensam kampanj — möte i Elimkyrkan</strong><em>19.00</em></span></li>
+      <li><time datetime="2026-09-27T11:00"><b>27</b><small>sep</small></time><span><strong>Gemensam kampanj — möte i Equmeniakyrkan</strong><em>11.00</em></span></li>
+      <li><time datetime="2026-09-28T18:00"><b>28</b><small>sep</small></time><span><strong><a href="{{ '/vad-vi-goer/#kraftkallan' | relative_url }}">Kraftkällan</a></strong><em>18.00</em></span></li>
+    </ul>
+  </section>
+
+  <section class="programme-month">
+    <div class="programme-month-heading"><h3>Oktober</h3><span>2026</span></div>
+    <ul>
+      <li><time datetime="2026-10-02T18:00"><b>2</b><small>okt</small></time><span><strong>Fredax 8–12 år</strong><em>18.00</em></span></li>
+      <li><time datetime="2026-10-04T11:00"><b>4</b><small>okt</small></time><span><strong><a href="{{ '/vad-vi-goer/#sondagsgudstjanst' | relative_url }}">Gudstjänst och söndagsskola</a></strong><em>11.00</em></span></li>
     </ul>
   </section>
 </div>
@@ -35,7 +48,7 @@ period: Augusti–september 2026
 ## Kommande konferenser
 
 <div class="conferences">
-  <section class="conference"><span>26–27 september</span><h3>Gemensam konferens</h3><p>Med Rickard Lundgren</p></section>
+  <section class="conference"><span>26–27 september</span><h3>Gemensam kampanj</h3><p>Med Rickard Lundgren</p></section>
   <section class="conference"><span>21–22 november</span><h3>Gemensam Israelkonferens</h3><p>Med Thomas och Hertie Dixon</p></section>
 </div>
 
