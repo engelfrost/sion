@@ -29,9 +29,9 @@ period: Augusti–oktober 2026
       <li><time datetime="2026-09-14T18:00"><b>14</b><small>sep</small></time><span><strong><a href="{{ '/vad-vi-goer/#kraftkallan' | relative_url }}">Kraftkällan</a></strong><em>18.00</em></span></li>
       <li><time datetime="2026-09-18T17:00"><b>18</b><small>sep</small></time><span><strong>Fredax 8–12 år</strong><em>17.00</em></span></li>
       <li><time datetime="2026-09-20T16:00"><b>20</b><small>sep</small></time><span><strong><a href="{{ '/vad-vi-goer/#familjegudstjanst' | relative_url }}">Familjegudstjänst</a></strong><em>16.00</em></span></li>
-      <li><time datetime="2026-09-26T17:00"><b>26</b><small>sep</small></time><span><strong>Gemensam kampanj — möte i Elimkyrkan</strong><em>17.00</em></span></li>
-      <li><time datetime="2026-09-26T19:00"><b>26</b><small>sep</small></time><span><strong>Gemensam kampanj — möte i Elimkyrkan</strong><em>19.00</em></span></li>
-      <li><time datetime="2026-09-27T11:00"><b>27</b><small>sep</small></time><span><strong>Gemensam kampanj — möte i Equmeniakyrkan</strong><em>11.00</em></span></li>
+      <li><time datetime="2026-09-26T17:00"><b>26</b><small>sep</small></time><span><strong>Mini-konferens med Rickard Lundgren — möte i Elimkyrkan</strong><em>17.00</em></span></li>
+      <li><time datetime="2026-09-26T19:00"><b>26</b><small>sep</small></time><span><strong>Mini-konferens med Rickard Lundgren — möte i Elimkyrkan</strong><em>19.00</em></span></li>
+      <li><time datetime="2026-09-27T11:00"><b>27</b><small>sep</small></time><span><strong>Mini-konferens med Rickard Lundgren — möte i Equmeniakyrkan</strong><em>11.00</em></span></li>
       <li><time datetime="2026-09-28T18:00"><b>28</b><small>sep</small></time><span><strong><a href="{{ '/vad-vi-goer/#kraftkallan' | relative_url }}">Kraftkällan</a></strong><em>18.00</em></span></li>
     </ul>
   </section>
@@ -48,8 +48,8 @@ period: Augusti–oktober 2026
 ## Kommande konferenser
 
 <div class="conferences">
-  <section class="conference"><span>26–27 september</span><h3>Gemensam kampanj</h3><p>Med Rickard Lundgren</p></section>
-  <section class="conference"><span>21–22 november</span><h3>Gemensam Israelkonferens</h3><p>Med Thomas och Hertie Dixon</p></section>
+  <section class="conference"><span>26–27 september</span><h3>Mini-konferens med Rickard Lundgren</h3></section>
+  <section class="conference"><span>21–22 november</span><h3>Israelhelg</h3><p>Med Thomas och Hertie Dixon</p></section>
 </div>
 
 > På samma sätt som en kropp är beroende av att alla dess delar fungerar, så är också vår gemenskap i Kristus beroende av att var och en av oss fungerar. Vi är alla delar i Kristi kropp, var och en av oss med olika uppgifter att sköta, och alla behövs för att göra den fullständig. Vi tillhör därför varandra, och var och en behöver de andra.
