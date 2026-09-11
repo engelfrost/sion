@@ -1,23 +1,12 @@
 ---
 layout: home
 title: Program
-period: Augusti–oktober 2026
+period: September–oktober 2026
 ---
 
 ## Det här händer
 
 <div class="programme">
-  <section class="programme-month">
-    <div class="programme-month-heading"><h3>Augusti</h3><span>2026</span></div>
-    <ul>
-      <li><time datetime="2026-08-21T17:00"><b>21</b><small>aug</small></time><span><strong>Fredax 8–12 år</strong><em>17.00</em></span></li>
-      <li><time datetime="2026-08-23T16:00"><b>23</b><small>aug</small></time><span><strong><a href="{{ '/vad-vi-goer/#familjegudstjanst' | relative_url }}">Familjegudstjänst</a></strong><em>16.00</em></span></li>
-      <li><time datetime="2026-08-24T18:00"><b>24</b><small>aug</small></time><span><strong><a href="{{ '/vad-vi-goer/#kraftkallan' | relative_url }}">Kraftkällan</a></strong><em>18.00</em></span></li>
-      <li><time datetime="2026-08-30T11:00"><b>30</b><small>aug</small></time><span><strong><a href="{{ '/vad-vi-goer/#sondagsgudstjanst' | relative_url }}">Gudstjänst och söndagsskola</a></strong><em>11.00</em></span></li>
-      <li><time datetime="2026-08-31T18:00"><b>31</b><small>aug</small></time><span><strong><a href="{{ '/vad-vi-goer/#kraftkallan' | relative_url }}">Kraftkällan</a></strong><em>18.00</em></span></li>
-    </ul>
-  </section>
-
   <section class="programme-month">
     <div class="programme-month-heading"><h3>September</h3><span>2026</span></div>
     <ul>
