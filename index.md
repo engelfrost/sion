@@ -38,7 +38,7 @@ period: September–oktober 2026
 
 <div class="conferences">
   <section class="conference"><span>26–27 september</span><h3>Mini-konferens med Rickard Lundgren</h3></section>
-  <section class="conference"><span>21–22 november</span><h3>Israelhelg</h3><p></p></section>
+  <section class="conference"><span>21–22 november</span><h3>Israelhelg</h3></section>
 </div>
 
 > På samma sätt som en kropp är beroende av att alla dess delar fungerar, så är också vår gemenskap i Kristus beroende av att var och en av oss fungerar. Vi är alla delar i Kristi kropp, var och en av oss med olika uppgifter att sköta, och alla behövs för att göra den fullständig. Vi tillhör därför varandra, och var och en behöver de andra.
