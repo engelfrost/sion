@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Program
-period: September–oktober 2026
+period: Oktober 2026
 ---
 
 ## Det här händer
@@ -34,7 +34,6 @@ period: September–oktober 2026
 ## Kommande konferenser
 
 <div class="conferences">
-  <section class="conference"><span>26–27 september</span><h3>Mini-konferens med Rickard Lundgren</h3></section>
   <section class="conference"><span>21–22 november</span><h3>Israelhelg</h3></section>
 </div>
 
