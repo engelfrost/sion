@@ -21,6 +21,10 @@ En gudstjänst där alla åldrar deltar tillsammans från början till slut. Det
 
 Kraftkällan är en samling där vi lyssnar till undervisning, samtalar och ber tillsammans. Det finns också tid för fika och gemenskap.
 
+## Fredax – 8–12 år {#fredax}
+
+Fredax är en samling för dig som är 8–12 år. Vi ses varannan fredag. Ibland håller vi till i kyrkan, ibland i Södra skolans gymnastiksal. Ingen anmälan krävs och det kostar inget.
+
 ## Söndagsskola {#sondagsskola}
 
 En stund med aktiviteter som lek, pyssel, sång och dans, tillsammans med berättelser från Bibeln. En trygg och glad plats där barnen kan växa i sin tro och känna glädje i gemenskapen. Välkommen med ditt barn till en rolig och meningsfull stund!

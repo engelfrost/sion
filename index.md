@@ -26,7 +26,7 @@ period: Oktober 2026
       <li><time datetime="2026-10-25T11:00"><b>25</b><small>okt</small></time><span><strong><a href="{{ '/vad-vi-goer/#sondagsgudstjanst' | relative_url }}">Gudstjänst och söndagsskola</a></strong><em>11.00</em></span></li>
       <li><time datetime="2026-10-26T18:00"><b>26</b><small>okt</small></time><span><strong><a href="{{ '/vad-vi-goer/#kraftkallan' | relative_url }}">Kraftkällan</a></strong><em>18.00</em></span></li>
       <li><time datetime="2026-10-28T18:00"><b>28</b><small>okt</small></time><span><strong>Bön</strong><em>18.00</em></span></li>
-      <li><time datetime="2026-10-30T17:00"><b>30</b><small>okt</small></time><span><strong>Fredax i kyrkan</strong><em>17-19</em></span></li>
+      <li><time datetime="2026-10-30T17:00"><b>30</b><small>okt</small></time><span><strong><a href="{{ '/vad-vi-goer/#fredax' | relative_url }}">Fredax i kyrkan</a></strong><em>17-19</em></span></li>
     </ul>
   </section>
 </div>
