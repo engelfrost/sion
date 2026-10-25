@@ -19,7 +19,7 @@ period: Oktober–november 2026
       <li><time datetime="2026-10-11T11:00"><b>Söndag</b><small>11 okt</small></time><span><strong><a href="{{ '/vad-vi-goer/#sondagsgudstjanst' | relative_url }}">Gudstjänst med nattvardsfirande, söndagsskola</a></strong><em>11.00</em></span></li>
       <li><time datetime="2026-10-12T18:00"><b>Måndag</b><small>12 okt</small></time><span><strong><a href="{{ '/vad-vi-goer/#kraftkallan' | relative_url }}">Kraftkällan</a></strong><em>18.00</em></span></li>
       <li><time datetime="2026-10-14T18:00"><b>Onsdag</b><small>14 okt</small></time><span><strong>Bön</strong><em>18.00</em></span></li>
-      <li><time datetime="2026-10-16T17:00"><b>Fredag</b><small>16 okt</small></time><span><strong>Fredax 8–12 år — Södra skolans gymnastiksal</strong><em>17-19</em></span></li>
+      <li><time datetime="2026-10-16T17:00"><b>Fredag</b><small>16 okt</small></time><span><strong>Fredax 8–12 år: Södra skolans gymnastiksal</strong><em>17-19</em></span></li>
       <li><time datetime="2026-10-18T16:00"><b>Söndag</b><small>18 okt</small></time><span><strong><a href="{{ '/vad-vi-goer/#familjegudstjanst' | relative_url }}">Familjegudstjänst</a></strong><em>16.00</em></span></li>
       <li><time datetime="2026-10-19T18:00"><b>Måndag</b><small>19 okt</small></time><span><strong><a href="{{ '/vad-vi-goer/#kraftkallan' | relative_url }}">Kraftkällan</a></strong><em>18.00</em></span></li>
       <li><time datetime="2026-10-21T18:00"><b>Onsdag</b><small>21 okt</small></time><span><strong>Bön</strong><em>18.00</em></span></li>
