@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Program
-period: Oktober 2026
+period: Oktober–november 2026
 ---
 
 ## Det här händer
@@ -27,6 +27,15 @@ period: Oktober 2026
       <li><time datetime="2026-10-26T18:00"><b>26</b><small>okt</small></time><span><strong><a href="{{ '/vad-vi-goer/#kraftkallan' | relative_url }}">Kraftkällan</a></strong><em>18.00</em></span></li>
       <li><time datetime="2026-10-28T18:00"><b>28</b><small>okt</small></time><span><strong>Bön</strong><em>18.00</em></span></li>
       <li><time datetime="2026-10-30T17:00"><b>30</b><small>okt</small></time><span><strong><a href="{{ '/vad-vi-goer/#fredax' | relative_url }}">Fredax i kyrkan</a></strong><em>17-19</em></span></li>
+    </ul>
+  </section>
+
+  <section class="programme-month">
+    <div class="programme-month-heading"><h3>November</h3><span>2026</span></div>
+    <ul>
+      <li><time datetime="2026-11-01T11:00"><b>1</b><small>nov</small></time><span><strong><a href="{{ '/vad-vi-goer/#sondagsgudstjanst' | relative_url }}">Gudstjänst och söndagsskola</a></strong><em>11.00</em></span></li>
+      <li><time datetime="2026-11-02T18:00"><b>2</b><small>nov</small></time><span><strong><a href="{{ '/vad-vi-goer/#kraftkallan' | relative_url }}">Kraftkällan</a></strong><em>18.00</em></span></li>
+      <li><time datetime="2026-11-04T18:00"><b>4</b><small>nov</small></time><span><strong>Bön</strong><em>18.00</em></span></li>
     </ul>
   </section>
 </div>
