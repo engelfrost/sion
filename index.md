@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Program
-period: November–december 2026
+period: November 2026
 ---
 
 ## Det här händer
