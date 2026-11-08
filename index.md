@@ -14,18 +14,18 @@ period: November 2026
       <li><time datetime="2026-11-01T11:00"><b>Söndag</b><small>1 nov</small></time><span><strong><a href="{{ '/vad-vi-goer/#sondagsgudstjanst' | relative_url }}">Gudstjänst och söndagsskola</a></strong><em>11.00</em></span></li>
       <li><time datetime="2026-11-02T18:00"><b>Måndag</b><small>2 nov</small></time><span><strong><a href="{{ '/vad-vi-goer/#kraftkallan' | relative_url }}">Kraftkällan</a></strong><em>18.00</em></span></li>
       <li><time datetime="2026-11-04T18:00"><b>Onsdag</b><small>4 nov</small></time><span><strong>Bön</strong><em>18.00</em></span></li>
-      <li><time datetime="2026-11-08T15:00"><b>Söndag</b><small>8 nov</small></time><span><strong>Familjegudstjänst</strong><em>15.00</em></span></li>
+      <li><time datetime="2026-11-08T15:00"><b>Söndag</b><small>8 nov</small></time><span><strong><a href="{{ '/vad-vi-goer/#familjegudstjanst' | relative_url }}">Familjegudstjänst</a></strong><em>15.00</em></span></li>
       <li><time datetime="2026-11-09T18:00"><b>Måndag</b><small>9 nov</small></time><span><strong>Kraftkällan</strong><em>18.00</em></span></li>
       <li><time datetime="2026-11-11T18:00"><b>Onsdag</b><small>11 nov</small></time><span><strong>Bön</strong><em>18.00</em></span></li>
-      <li><time datetime="2026-11-13T18:00"><b>Fredag</b><small>13 nov</small></time><span><strong>Fredax 8–12 år</strong><em>18.00</em></span></li>
-      <li><time datetime="2026-11-15T11:00"><b>Söndag</b><small>15 nov</small></time><span><strong>Gudstjänst och söndagsskola</strong><em>11.00</em></span></li>
+      <li><time datetime="2026-11-13T18:00"><b>Fredag</b><small>13 nov</small></time><span><strong><a href="{{ '/vad-vi-goer/#fredax' | relative_url }}">Fredax 8–12 år</a></strong><em>18.00</em></span></li>
+      <li><time datetime="2026-11-15T11:00"><b>Söndag</b><small>15 nov</small></time><span><strong><a href="{{ '/vad-vi-goer/#sondagsgudstjanst' | relative_url }}">Gudstjänst och söndagsskola</a></strong><em>11.00</em></span></li>
       <li><time datetime="2026-11-16T18:00"><b>Måndag</b><small>16 nov</small></time><span><strong>Kraftkällan</strong><em>18.00</em></span></li>
       <li><time datetime="2026-11-18T18:00"><b>Onsdag</b><small>18 nov</small></time><span><strong>Bön</strong><em>18.00</em></span></li>
-      <li><time datetime="2026-11-22T11:00"><b>Söndag</b><small>22 nov</small></time><span><strong>Gudstjänst och söndagsskola</strong><em>11.00</em></span></li>
+      <li><time datetime="2026-11-22T11:00"><b>Söndag</b><small>22 nov</small></time><span><strong><a href="{{ '/vad-vi-goer/#sondagsgudstjanst' | relative_url }}">Gudstjänst och söndagsskola</a></strong><em>11.00</em></span></li>
       <li><time datetime="2026-11-23T18:00"><b>Måndag</b><small>23 nov</small></time><span><strong>Kraftkällan</strong><em>18.00</em></span></li>
       <li><time datetime="2026-11-25T18:00"><b>Onsdag</b><small>25 nov</small></time><span><strong>Bön</strong><em>18.00</em></span></li>
-      <li><time datetime="2026-11-27T18:00"><b>Fredag</b><small>27 nov</small></time><span><strong>Fredax 8–12 år</strong><em>18.00</em></span></li>
-      <li><time datetime="2026-11-29T11:00"><b>Söndag</b><small>29 nov</small></time><span><strong>Gudstjänst och söndagsskola</strong><em>11.00</em></span></li>
+      <li><time datetime="2026-11-27T18:00"><b>Fredag</b><small>27 nov</small></time><span><strong><a href="{{ '/vad-vi-goer/#fredax' | relative_url }}">Fredax 8–12 år</a></strong><em>18.00</em></span></li>
+      <li><time datetime="2026-11-29T11:00"><b>Söndag</b><small>29 nov</small></time><span><strong><a href="{{ '/vad-vi-goer/#sondagsgudstjanst' | relative_url }}">Gudstjänst och söndagsskola</a></strong><em>11.00</em></span></li>
       <li><time datetime="2026-11-30T18:00"><b>Måndag</b><small>30 nov</small></time><span><strong>Kraftkällan</strong><em>18.00</em></span></li>
     </ul>
   </section>
