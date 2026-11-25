@@ -34,6 +34,7 @@ period: November 2026
     <div class="programme-month-heading"><h3>December</h3><span>2026</span></div>
     <ul>
       <li><time datetime="2026-12-02T18:00"><b>Onsdag</b><small>2 dec</small></time><span><strong>Bön</strong><em>18.00</em></span></li>
+      <li><time datetime="2026-12-19T15:00"><b>Lördag</b><small>19 dec</small></time><span><strong>Julfest</strong><em>15.00</em></span></li>
     </ul>
   </section>
 </div>
