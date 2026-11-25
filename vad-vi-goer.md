@@ -23,7 +23,7 @@ Kraftkällan är en samling där vi lyssnar till undervisning, samtalar och ber 
 
 ## Fredax – 8–12 år {#fredax}
 
-Fredax är en samling för dig som är 8–12 år. Vi ses varannan fredag. Ibland håller vi till i kyrkan, ibland i Södra skolans gymnastiksal. Ingen anmälan krävs och det kostar inget.
+Fredax är en samling för dig som är 8–12 år. Vi ses varannan fredag kl. 17.00–19.00. Ibland håller vi till i kyrkan, ibland i Södra skolans gymnastiksal. Ingen anmälan krävs och det kostar inget.
 
 ## Söndagsskola {#sondagsskola}
 
