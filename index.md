@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Program
-period: November 2026
+period: 1 november–19 december 2026
 ---
 
 ## Det här händer
@@ -34,6 +34,13 @@ period: November 2026
     <div class="programme-month-heading"><h3>December</h3><span>2026</span></div>
     <ul>
       <li><time datetime="2026-12-02T18:00"><b>Onsdag</b><small>2 dec</small></time><span><strong>Bön</strong><em>18.00</em></span></li>
+      <li><time datetime="2026-12-06T11:00"><b>Söndag</b><small>6 dec</small></time><span><strong><a href="{{ '/vad-vi-goer/#sondagsgudstjanst' | relative_url }}">Gudstjänst och söndagsskola</a></strong><em>11.00</em></span></li>
+      <li><time datetime="2026-12-07T18:00"><b>Måndag</b><small>7 dec</small></time><span><strong><a href="{{ '/vad-vi-goer/#kraftkallan' | relative_url }}">Kraftkällan</a></strong><em>18.00</em></span></li>
+      <li><time datetime="2026-12-09T18:00"><b>Onsdag</b><small>9 dec</small></time><span><strong>Bön</strong><em>18.00</em></span></li>
+      <li><time datetime="2026-12-11T17:00"><b>Fredag</b><small>11 dec</small></time><span><strong><a href="{{ '/vad-vi-goer/#fredax' | relative_url }}">Fredax 8–12 år</a></strong><em>17.00–19.00</em></span></li>
+      <li><time datetime="2026-12-13T11:00"><b>Söndag</b><small>13 dec</small></time><span><strong><a href="{{ '/vad-vi-goer/#sondagsgudstjanst' | relative_url }}">Gudstjänst och söndagsskola</a></strong><em>11.00</em></span></li>
+      <li><time datetime="2026-12-14T18:00"><b>Måndag</b><small>14 dec</small></time><span><strong><a href="{{ '/vad-vi-goer/#kraftkallan' | relative_url }}">Kraftkällan</a></strong><em>18.00</em></span></li>
+      <li><time datetime="2026-12-16T18:00"><b>Onsdag</b><small>16 dec</small></time><span><strong>Bön</strong><em>18.00</em></span></li>
       <li><time datetime="2026-12-19T15:00"><b>Lördag</b><small>19 dec</small></time><span><strong>Julfest</strong><em>15.00</em></span></li>
     </ul>
   </section>
