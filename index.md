@@ -38,11 +38,17 @@ period: November 2026
   </section>
 </div>
 
-## Kommande konferenser
+<p id="programme-empty" hidden>Det finns inga fler händelser i det publicerade programmet.</p>
 
-<div class="conferences">
-  <section class="conference"><span>21–22 november</span><h3>Israelhelg</h3><p>21 november: samling kl. 15 och möte kl. 18, med fika mellan samlingarna i Elimkyrkan. 22 november kl. 11 i Pingstkyrkan.</p></section>
-</div>
+<section id="upcoming-conferences">
+  <h2>Kommande konferenser</h2>
+  <div class="conferences">
+    <!-- Ange konferensens sista dag som data-end-date (ÅÅÅÅ-MM-DD). -->
+    <section class="conference" data-end-date="2026-11-22"><span>21–22 november</span><h3>Israelhelg</h3><p>21 november: samling kl. 15 och möte kl. 18, med fika mellan samlingarna i Elimkyrkan. 22 november kl. 11 i Pingstkyrkan.</p></section>
+  </div>
+</section>
+
+<script defer src="{{ '/assets/js/programme.js' | relative_url }}"></script>
 
 > På samma sätt som en kropp är beroende av att alla dess delar fungerar, så är också vår gemenskap i Kristus beroende av att var och en av oss fungerar. Vi är alla delar i Kristi kropp, var och en av oss med olika uppgifter att sköta, och alla behövs för att göra den fullständig. Vi tillhör därför varandra, och var och en behöver de andra.
 >

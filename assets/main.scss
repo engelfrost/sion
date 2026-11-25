@@ -121,7 +121,8 @@ a { color: $pine; }
   letter-spacing: -0.02em;
 }
 
-.home h2:first-of-type { margin-top: 0; }
+.home > h2:first-of-type { margin-top: 0; }
+.home [hidden] { display: none; }
 
 .programme,
 .conferences {
